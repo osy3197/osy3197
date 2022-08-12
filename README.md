@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![osy3197's Github stats](https://github-readme-stats.vercel.app/api?username=osy3197&show_icons=true&theme=radical)
+
+https://osy3197.github.io/resume/
+
 <!--
 **osy3197/osy3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
